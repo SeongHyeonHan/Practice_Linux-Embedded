@@ -1,4 +1,4 @@
- # Linux
+ # Embedded Linux
 
 ## 1과. Linux Command
 
@@ -824,6 +824,9 @@ clean:
   * User 공간 : `heap`, `stack` 등
   * 커널 공간 : `deviceDriver`, `OS` 등
 * 커널
+
+* <img width="1266" height="918" alt="image" src="https://github.com/user-attachments/assets/f00bf78b-4f8e-4b41-a78d-021b7f71a137" />
+
 
 ### 저수준 파일 입출력
 
